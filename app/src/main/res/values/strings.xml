@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">ProyectoProgra4</string>
+<string-array name="Sexo">
+    <item>Masculino</item>
+    <item>Femenino</item>
+    <item>Otro</item>
+</string-array>
+    <string-array name="CiudadesEstadosUnidos">
+        <item>Texas</item>
+        <item>Washington D.C</item>
+        <item>Colorado</item>
+    </string-array>
+
+    <string-array name="CiudadesMexico">
+        <item>Chihuahua</item>
+        <item>Distrito Federal</item>
+        <item>Aguas Calientes</item>
+    </string-array>
+
+    <string-array name="CiudadesElSalvador">
+        <item>San Salvador</item>
+        <item>San Miguel</item>
+        <item>Santa Ana</item>
+    </string-array>
+
+    <string-array name="Pais">
+        <item>Estados Unidos</item>
+        <item>Mexico</item>
+        <item>El Salvador</item>
+    </string-array>
+
+</resources>
